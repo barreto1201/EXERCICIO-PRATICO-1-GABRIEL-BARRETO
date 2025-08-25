@@ -6,7 +6,7 @@
 <body>
 
     <h1> Cadastro de Usuário </h1>
-    <form action="/submit_form" method="post">
+    <form action="cadastro.html" method="post">
         <label for="name">Nome Completo: </label><br>
         <input type="text" id="name" name="name" placeholder="Digite seu Nome Completo" required><br><br>
 
